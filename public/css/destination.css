@@ -1,0 +1,44 @@
+body {
+    background-image: url("./destination/background-destination-desktop.jpg");
+    overflow: hidden;
+}
+
+.image-logo {
+    background-image: url("./shared/logo.svg");
+    z-index: 1;
+    height: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+}
+
+.image-luna {
+    background-image: url("./destination/image-moon.png");
+    z-index: 1;
+    background-repeat: no-repeat;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.texto-secundario {
+    font-size: 22px;
+    color: #ffff;
+}
+
+.texto-principal {
+    font-size: 120px;
+    color: #ffff;
+}
+
+.bajar-texto {
+    margin-top: 180px;
+}
+
+.texto {
+    font-size: 14px;
+    color: #ffff;
+}
+
+.navbar-inner {
+    background:transparent;
+}
